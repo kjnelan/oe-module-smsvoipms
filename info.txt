@@ -1,0 +1,6 @@
+VOIP.ms SMS Module v1.1.0-stable for OpenEMR 7.0.x
+Provides SMS appointment reminders, confirmations, and cancellation notices using VOIP.ms API.
+Includes full logging, configurable message templates, and cron-driven delivery logic.
+Author: Kenneth J. Nelan
+https://sacwan.org
+
